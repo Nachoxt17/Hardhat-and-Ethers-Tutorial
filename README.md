@@ -1,6 +1,7 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
++-To Deploy de Smart Contract and the Front-End:\_
++-(1)-Open a 1st Terminal and run "npx hardhat node".
++-(2)-Open a 2nd Terminal and run "npx hardhat run scripts/deploy.js --network localhost".
++-(2)-Open a 3rd Terminal and run "npm start".
 
 ## Available Scripts
 
@@ -68,4 +69,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
 # Hardhat-and-Ethers-Tutorial
