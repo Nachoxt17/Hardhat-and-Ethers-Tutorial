@@ -1,7 +1,7 @@
 +-To Deploy de Smart Contract and the Front-End:\_
 +-(1)-Open a 1st Terminal and run "npx hardhat node".
 +-(2)-Open a 2nd Terminal and run "npx hardhat run scripts/deploy.js --network localhost".
-+-(2)-Open a 3rd Terminal and run "npm start".
++-(3)-Open a 3rd Terminal and run "npm start".
 
 ## Available Scripts
 
